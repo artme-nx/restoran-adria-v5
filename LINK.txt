@@ -1,0 +1,11 @@
+Restoran Adria (Vodice)
+
+Stranica online (GitHub Pages):
+https://artme-nx.github.io/restoran-adria-v5/
+
+Repozitorij:
+https://github.com/artme-nx/restoran-adria-v5
+
+Objavljeno: 2026-07-10
+Deploy: gh-pages branch (statički export iz `npm run build` → out/)
+Dev server: npm run dev (port 3027)
